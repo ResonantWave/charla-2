@@ -4,17 +4,16 @@
 
 Aprender a instalar y manejar una Raspberry Pi. También se aprenderá a utilizar el GPIO para encender LEDs o leer sensores.
 
-
 ## Guión
 
 ### Introducción
  - ¿Qué es una Raspberry Pi?
- - La fundación Raspberry Pi y su misión
  - Comparación respecto a un ordenador «normal»
 
 ### Instalación del sistema (Primera práctica)
  - Aprender a instalar un SO (Raspbian)
  - Manejo básico del sistema mediante CLI (Command line interface)
+ - Configuración de la red
  
 ### Introducción al GPIO
  - Descripción general
