@@ -13,6 +13,7 @@ Aprender a instalar y manejar una Raspberry Pi. También se aprenderá a utiliza
 ### Instalación del sistema (Primera práctica)
  - Aprender a instalar un SO (Raspbian)
  - Manejo básico del sistema mediante CLI (Command line interface)
+ - Nociones básicas de apt-get
  - Configuración de la red
  
 ### Introducción al GPIO
