@@ -163,7 +163,7 @@
      </g>
      <g class="com.sun.star.drawing.TextShape">
       <g id="id9">
-       <text class="TextShape"><tspan class="TextParagraph" font-family="MgOpen Moderna" font-size="706px" font-weight="400"><tspan class="TextPosition" x="478" y="20700"><tspan fill="rgb(255,255,255)" stroke="none">Introducción a Raspberry Pi</tspan></tspan></tspan></text>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="MgOpen Moderna" font-size="706px" font-weight="400"><tspan class="TextPosition" x="478" y="20700"><tspan fill="rgb(255,255,255)" stroke="none">Introducción a </tspan><tspan fill="rgb(199,5,61)" stroke="none">Raspberry</tspan><tspan fill="rgb(255,255,255)" stroke="none"> </tspan><tspan fill="rgb(140,192,75)" stroke="none">Pi</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
