@@ -28,3 +28,6 @@ Aprender a instalar y manejar una Raspberry Pi. También se aprenderá a utiliza
  - **Quinta práctica**: leer sensores como por ejemplo PIRs o sensores de efecto Hall.
 
 En caso de que el tiempo llegase, se realizará una **sexta práctica**, para combinar entradas y salidas.
+
+## Presentación
+ - La presentación puede encontrarse [aquí](Presentation.odp).
