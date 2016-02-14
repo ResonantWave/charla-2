@@ -20,8 +20,7 @@ Aprender a instalar y manejar una Raspberry Pi. También se aprenderá a utiliza
  - Descripción general
  - Descripción de los distintos protocolos soportados
  - Encender y apagar un LED desde la cli utilizando la librería [WiringPi](http://wiringpi.com/) (**Segunda práctica**)
- - Mini introducción a Python para aquellos que no asistieron a la primera charla, y para refrescar brevemente
- - **Tercera práctica**: hacer parpadear un LED, probando a modificar tiempos e incluso patrones, utilizando Python.
+ - **Tercera práctica**: hacer parpadear un LED, probando a modificar tiempos e incluso patrones, utilizando Python. (Se hará a mayores un mini repaso de Python)
 
 ### Lectura de sensores
  - Descripción de las entradas del GPIO de la Raspberry Pi
