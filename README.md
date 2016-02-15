@@ -31,3 +31,6 @@ En caso de que el tiempo llegase, se realizará una **sexta práctica**, para co
 
 ## Presentación
  - La presentación puede encontrarse [aquí](Presentation.odp). (Aún sin finalizar)
+
+## Ejemplos de código
+ - Todos los ejemplos de código están en [este](code/) directorio.
