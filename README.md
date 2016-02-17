@@ -30,7 +30,7 @@ Aprender a instalar y manejar una Raspberry Pi. También se aprenderá a utiliza
 En caso de que el tiempo llegase, se realizará una **sexta práctica**, para combinar entradas y salidas.
 
 ## Presentación
- - La presentación puede encontrarse [aquí](Presentation.odp). (Aún sin finalizar)
+ - La presentación puede encontrarse [aquí](Presentation.odp).
 
 ## Ejemplos de código
  - Todos los ejemplos de código están en [este](code/) directorio.
