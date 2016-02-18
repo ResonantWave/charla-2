@@ -1,4 +1,4 @@
-import RPi.GPIO as GPIO # librería para los GPIO
+import RPi.GPIO as GPIO # libreria para los GPIO
 import time 
 
 GPIO.setwarnings(False) 
